@@ -1,0 +1,6 @@
+{
+  "name": "Vellum — Infinite Canvas Studio",
+  "description": "A personal infinite-canvas workspace for sketching, writing, diagramming, charting, and planning on one endless surface with offline IndexedDB persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
